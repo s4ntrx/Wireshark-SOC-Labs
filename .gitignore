@@ -1,0 +1,19 @@
+# Packet captures (large binary files)
+*.pcap
+*.pcapng
+*.cap
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.log
+~$*
